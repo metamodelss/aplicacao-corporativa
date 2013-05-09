@@ -13,3 +13,8 @@
 /Interfaces/nbproject/private/
 /Interfaces/dist/
 /Interfaces/build/
+
+*.class
+*.jar
+*.war
+*.ear
